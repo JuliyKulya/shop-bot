@@ -148,9 +148,5 @@ python main.py
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 🤝 Support
-
-- **Issues** - Report bugs via [GitHub Issues](https://github.com/JuliyKulya/recipe-bot/issues)
-- **Discussions** - Join conversations in [Discussions](https://github.com/JuliyKulya/recipe-bot/discussions)
 
 
