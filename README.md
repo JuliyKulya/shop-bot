@@ -32,7 +32,7 @@ A powerful Telegram bot for managing recipes and creating smart shopping lists. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/recipe-bot.git
+   git clone https://github.com/JuliyKulya/recipe-bot.git
    cd recipe-bot
    ```
 
