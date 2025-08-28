@@ -150,7 +150,7 @@ python main.py
 
 ## 🤝 Support
 
-- **Issues** - Report bugs via [GitHub Issues](https://github.com/yourusername/recipe-bot/issues)
-- **Discussions** - Join conversations in [Discussions](https://github.com/yourusername/recipe-bot/discussions)
+- **Issues** - Report bugs via [GitHub Issues](https://github.com/JuliyKulya/recipe-bot/issues)
+- **Discussions** - Join conversations in [Discussions](https://github.com/JuliyKulya/recipe-bot/discussions)
 
 
